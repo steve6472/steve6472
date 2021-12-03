@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steve6472
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java (soon C# or C++)
+- 🌱 I’m currently learning Java & C++ (maybe C# in future)
 - 💞️ I’m looking to collaborate on Minecraft Clone (not really)
 - 📫 How to reach me don't
 
